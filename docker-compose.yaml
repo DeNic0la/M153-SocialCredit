@@ -8,5 +8,5 @@ services:
     ports:
       - 3307:3306
     volumes:
-      - /Code:/var/lib/mysql
+      - /Code:/Code
 #      - my.cnf:/etc/mysql/my.cnf
