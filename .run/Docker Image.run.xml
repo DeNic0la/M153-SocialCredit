@@ -24,14 +24,6 @@
             </DockerPortBindingImpl>
           </list>
         </option>
-        <option name="volumeBindings">
-          <list>
-            <DockerVolumeBindingImpl>
-              <option name="containerPath" value="/Code" />
-              <option name="hostPath" value="/Code" />
-            </DockerVolumeBindingImpl>
-          </list>
-        </option>
       </settings>
     </deployment>
     <method v="2" />
