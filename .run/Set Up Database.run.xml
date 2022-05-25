@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Set Up Database" type="DatabaseScript" editBeforeRun="true">
+    <script-file value="$PROJECT_DIR$/Code/mock_data/data_Person.sql" />
+    <script-file value="$PROJECT_DIR$/Code/mock_data/data_Punishments.sql" />
+    <script-file value="$PROJECT_DIR$/Code/mock_data/data_Worth.sql" />
+    <script-file value="$PROJECT_DIR$/Code/Create_Database_base.sql" />
+    <script-mode>FILE</script-mode>
+    <data-source id="cbe16415-5743-489f-afa4-ccdd4af58ff8" />
+    <method v="2" />
+  </configuration>
+</component>

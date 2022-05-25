@@ -21,8 +21,8 @@ CREATE TABLE `Punishments`(
 );
 CREATE TABLE `Executed_Punishments`(
                                        `id` INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
-                                       `execution_time` DATETIME NOT NULL,
-                                       `is_executet` TINYINT(1) NOT NULL,
+                                       `execution_time` DATETIME,
+                                       `is_executed` TINYINT(1) NOT NULL,
                                        `person_id` INT NOT NULL,
                                        `punishment_id` INT NOT NULL
 );
