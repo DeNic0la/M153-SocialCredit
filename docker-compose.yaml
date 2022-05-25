@@ -7,6 +7,6 @@ services:
       MYSQL_DATABASE: social_credit_db
     ports:
       - 3307:3306
-    volumes:
-      - /Code:/var/lib/mysql
+#    volumes:
+#      - /Code:/Code
 #      - my.cnf:/etc/mysql/my.cnf

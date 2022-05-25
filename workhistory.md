@@ -10,4 +10,4 @@
 | 18.05.2022 | Laurin | Erstellen Trigger                                                | 15 min           |
 | 18.05.2022 | Laurin | Erstellen Stroedprocedure 1                                      | 35 min           |
 | 18.05.2022 | Laurin | Erstellen Stroedprocedure 2                                      | 35 min           |
-
+| 25.05.2022 | Nicola | Grundtabellen der Datenbank erstellt                             | 20 min           |
