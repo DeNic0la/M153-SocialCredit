@@ -13,3 +13,5 @@
 | 25.05.2022 | Nicola | Grundtabellen der Datenbank erstellt                             | 20 min           |
 | 01.06.2022 | Nicola | Added Modifications and Selects                                  | 60 min           |
 | 01.06.2022 | Nicola | Fixed Storedprocedures, triggers and More                        | 60 min           |
+| 06.06.2022 | Nicola | Added Script for Build and Refacotred                            | 60 min           |
+
