@@ -16,4 +16,5 @@
 | 01.06.2022 | Nicola | Fixed Storedprocedures, triggers and More                        | 60 min           |
 | 03.06.2022 | Laurin | Dokumentation                                                    | 60 min           |
 | 06.06.2022 | Nicola | Added Script for Build and Refacotred                            | 60 min           |
+| 06.06.2022 | Nicola | Dokumentation                                                    | 30 min           |
 
