@@ -1,3 +1,6 @@
+CREATE DATABASE `social-db`;
+use `social-db`;
+
 DROP TABLE IF EXISTS `Person`;
 DROP TABLE IF EXISTS `Worth`;
 DROP TABLE IF EXISTS `Punishments`;
