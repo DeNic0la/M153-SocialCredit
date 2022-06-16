@@ -15,7 +15,7 @@ touch build/M153_Project_Create.sql build/M153_Project_Insert.sql build/M153_Pro
 FILE=build/M153_Project_Create.sql
 
 # SQL-Skript M153_Project_Create.sql
-{ cat Code/create/create*.sql; cat Code/create/procedure*.sql; cat Code/create/procedure*.sql; } >> $FILE
+{ cat Code/create/create*.sql; cat Code/create/procedure*.sql; cat Code/create/trigger*.sql; } >> $FILE
 
 
 # SQL-Skript M153_Project_Insert.sql
